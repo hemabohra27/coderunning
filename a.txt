@@ -1,0 +1,3 @@
+ echo print hello
+echo print git command all
+echo print git files
