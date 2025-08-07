@@ -2,3 +2,6 @@
 echo print git command all
 echo print git file
 hello i want change thiss
+ok both are good
+printint git files
+
