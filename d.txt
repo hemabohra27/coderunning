@@ -1,1 +1,11 @@
-git relase is use for specfic version of code 
+git stash 
+when i am working on somthing or some file on master branch and my manger came andtold me finesh your work as fast as you can
+and work on this file 
+so that time im working on somthing i dont want to loose that data and dont want to push that data
+ in git hub that time i will do git stash and it will save my file in staging area
+ all those untracked change or commit will in staging area
+ commands
+ git stash 
+ git stash list
+ git stash show stash id
+ git stash pop commit id
