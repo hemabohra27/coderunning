@@ -1,0 +1,4 @@
+git cherry-pick
+
+When you have changes in multiple files and you want to commit only a specific commit (not all changes), you can use git cherry-pick.
+git cherry-pick <commit-id>
