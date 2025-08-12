@@ -1,3 +1,4 @@
 echo run a=7
 echo run b=8
 echo print a+b=15
+echo hello

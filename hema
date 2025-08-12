@@ -1,0 +1,5 @@
+git branching
+we are not allowing any devolper to directliy change into main branch .
+devolper has to create feture branch
+then do whatever change u want do
+after that merge it with main branch
